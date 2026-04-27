@@ -1,0 +1,14 @@
+
+---
+
+# 📦 requirements.txt
+
+```txt
+streamlit
+numpy
+pandas
+yfinance
+plotly
+scikit-learn
+scipy
+requests
