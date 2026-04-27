@@ -1,10 +1,4 @@
-
----
-
-# 📦 requirements.txt
-
-```txt
-streamlit
+streamlit==1.32.0
 numpy
 pandas
 yfinance
